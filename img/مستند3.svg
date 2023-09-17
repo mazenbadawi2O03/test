@@ -1,0 +1,10 @@
+ <svg class="mt-4 mb-3" xmlns="http://www.w3.org/2000/svg" width="28.2" height="74.33" viewBox="0 0 28.2 74.33">
+                  <g id="lipstick-svgrepo-com" transform="translate(-21.9 2.33)">
+                    <path id="Path_123" data-name="Path 123" d="M45.4,35.2V2.1c0-4.9-18.8,9.8-18.8,15.1v18Z" fill="#ff473e"/>
+                    <path id="Path_124" data-name="Path 124" d="M25.8,41.1a.684.684,0,0,1-.7-.7V33.2a.684.684,0,0,1,.7-.7H46.7a.684.684,0,0,1,.7.7v7.2a.684.684,0,0,1-.7.7Z" fill="#d1cfc3"/>
+                    <path id="Path_125" data-name="Path 125" d="M50.1,39.6a.684.684,0,0,0-.7-.7H22.6a.684.684,0,0,0-.7.7V67.5C21.9,70,28.2,72,36,72s14.1-2,14.1-4.5V39.6Z" fill="#bfbcaf"/>
+                    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="4" cy="12.6" rx="4" ry="12.6" transform="matrix(0.707, 0.707, -0.707, 0.707, 42.053, -2.33)" fill="#ff6e83"/>
+                    <path id="Path_126" data-name="Path 126" d="M41.9,30.5A1.538,1.538,0,0,1,40.4,29V17.5a1.5,1.5,0,0,1,3,0V29A1.536,1.536,0,0,1,41.9,30.5Z" fill="#fc7570"/>
+                    <circle id="Ellipse_9" data-name="Ellipse 9" cx="3.8" cy="3.8" r="3.8" transform="translate(32.2 50.1)" fill="#c4f0f2"/>
+                  </g>
+                </svg>
